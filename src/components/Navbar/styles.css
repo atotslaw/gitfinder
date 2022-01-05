@@ -1,0 +1,9 @@
+.main-nav {
+    padding: 10px;
+    min-height: 50px;
+    background-color: #1890FF;
+  }
+
+  .nav-logo-text, .nav-logo-text:hover  {
+    color: #FFF;
+}

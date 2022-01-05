@@ -1,0 +1,13 @@
+.content-container {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.content-container h1 {
+    color: #000000;
+}
+
+.content-container p {
+    color: #7E7E7E;
+}
+
